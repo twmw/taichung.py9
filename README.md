@@ -1,9 +1,11 @@
-# taichung.py9
-9/19 presentation
+`# taichung.py9
+9/19 presentation`
 
 <pre>
+<code>
 about 30 min
 topic: (TBE)
+</code>
 content outline as below:
 1)demo UAE gps simulation and cpu thermal
  1.1) web site free account and login
