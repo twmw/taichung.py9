@@ -1,6 +1,7 @@
 # taichung.py9
 9/19 presentation
 
+<pre>
 about 30 min
 topic: (TBE)
 content outline as below:
@@ -12,3 +13,4 @@ content outline as below:
  2.1) one.py explain
 3)erlport(python api to interact with erlang)
  3.1) lfe introduction
+</pre>
